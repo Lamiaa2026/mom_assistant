@@ -1,16 +1,16 @@
-# mom_care_ai
+# MomCare AI - مساعد الأم الذكي 🤱
 
-A new Flutter project.
+تطبيق Flutter لدعم الأم العربية في رحلة الحمل وتربية الطفل باستخدام الذكاء الاصطناعي.
 
-## Getting Started
+## ✨ المميزات الرئيسية
+- **متابعة الحمل والطفل**: تتبع أسبوع بأسبوع مع نصائح طبية
+- **المساعد الذكي AI**: يرد على اسئلتك 24 ساعة عن الرضاعة والنوم
+- **تذكيرات ذكية**: الرضاعة، التطعيمات، مواعيد الدكتور
+- **إدارة البيت**: مهام يومية وأسبوعية للأم
+- **دعم كامل RTL**: واجهة عربية 100% وتدعم اللهجة المصرية
 
-This project is a starting point for a Flutter application.
+## 📹 فيديو عرض التطبيق
+[شاهدي الفيديو هنا](https://github.com/Lamiaa2026/mom_assistant/blob/main/assets/demo.mp4)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 التقنيات المستخدمة
+Flutter, Dart, Firebase, Gemini AI, Bloc

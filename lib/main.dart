@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:intl/date_symbol_data_local.dart';
@@ -44,11 +45,17 @@ class MomCareApp extends StatelessWidget {
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,
       themeMode: state.isDarkMode ? ThemeMode.dark : ThemeMode.light,
-      // Arabic RTL Directionality
+      
+      // Arabic RTL + تثبيت حجم الخط عشان ميعملش Overflow
       builder: (context, child) {
         return Directionality(
           textDirection: TextDirection.rtl,
-          child: child ?? const SizedBox(),
+          child: MediaQuery(
+            data: MediaQuery.of(context).copyWith(
+              textScaleFactor: 1.0, // <-- ده السطر اللي هيظبط الدنيا
+            ),
+            child: child ?? const SizedBox(),
+          ),
         );
       },
       home: const MainNavigationScreen(),

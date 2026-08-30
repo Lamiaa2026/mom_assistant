@@ -11,7 +11,9 @@
 
 ## 📹 فيديو عرض التطبيق
 
-<video src="https://github.com/Lamiaa2026/mom_assistant/raw/main/assets/XRecorder_20260830_04.mp4" controls width="100%"></video>
+[![شاهد فيديو العرض](https://img.youtube.com/vi/placeholder/0.jpg)](https://github.com/Lamiaa2026/mom_assistant/raw/main/assets/XRecorder_20260830_04.mp4)
+
+اضغطي على الصورة لمشاهدة الفيديو
 
 ## 🚀 التقنيات المستخدمة
 Flutter, Dart, Firebase, Gemini AI, Bloc, Hive

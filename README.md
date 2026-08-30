@@ -8,10 +8,10 @@
 - **تذكيرات ذكية**: الرضاعة، التطعيمات، مواعيد الدكتور
 - **إدارة البيت**: مهام يومية وأسبوعية للأم
 - **دعم كامل RTL**: واجهة عربية 100% وتدعم اللهجة المصرية
+
 ## 📹 فيديو عرض التطبيق
 
 <video src="https://github.com/Lamiaa2026/mom_assistant/raw/main/assets/XRecorder_20260830_04.mp4" controls width="100%"></video>
-
 
 ## 🚀 التقنيات المستخدمة
 Flutter, Dart, Firebase, Gemini AI, Bloc, Hive
